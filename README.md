@@ -5,7 +5,7 @@
 <!-- 🎓 Próximamente, estudiante del Grado de Multimedia en la UOC.  -->
 
 
-### 🚀 Tecnologías & Herramientas:
+### 🚀 Tecnologías y herramientas:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![AlpineJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
